@@ -1,0 +1,1 @@
+- Minha configuração pessoal do Vim
